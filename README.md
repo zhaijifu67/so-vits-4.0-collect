@@ -1,131 +1,69 @@
-> vits4.0模型，收集自网络  
-> 没标记地址的是以前下载的，找回地址后补上  
-> ### 用于转换的原始音频  
-> <audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/AUuGcpoj-96t9ykgxAfhR.wav"></audio>
-> <audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/wgUDpfi9V0kWJ2vLGzi1y.wav"></audio>
-
-# 女声 Female
-
-## Asahi
-女声，甜美  
-https://huggingface.co/IvanSnow02/so-vits-4.0-Asahi
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/uL5vZ-UdJjWJJdEv3mqy2.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/2M0vistsoIOyHEPVOfEOm.wav"></audio>
-
-## Caster
-女声，甜美，音质好
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/BR-su3wCIInAJ-RVnZYiE.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/l3cK8SfeqXGZ4hR0MlS5o.wav"></audio>
-
-## ChenZhuoXuan
-陈卓璇，弱气女声，甜美  
-https://huggingface.co/melicat/so-vits-svc-4.0
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/18zpL0I7hwP9phYxTz5H2.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/4Z8ZKA2CcK_rrhO2vdpcP.wav"></audio>
-
-## Derpy
-童声女声
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/XqtDYFcri7G6k8LaTZ73v.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/o9DSuIuGEjXzShLrM0a-b.wav"></audio>
-
-## emu
-超高音童声女声
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/gvnNosGsJzNRDFVzPuXmR.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/akxMPdz2-dVq6BGYYRoiW.wav"></audio>
-
-## Kurage
-女声  
-https://huggingface.co/yasyune/Kurage_Kikoto__Mahiro_Kikoto_so-vits-svc-4.0v1
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/qmo4fHEDafYl7pQyIODwT.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/aVPGDu69NrCKa96Jf-Y2a.wav"></audio>
-
-## Lain
-甜美女声  
-https://huggingface.co/SuCicada/Lain-so-vits-svc-4.0
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/Ezc1vxHAC_febo2j0F8rp.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/erAcd8Q2hd90zlaQPti0Z.wav"></audio>
-
-## Mahiro
-高音低音都合适，音域广  
-https://huggingface.co/yasyune/Kurage_Kikoto__Mahiro_Kikoto_so-vits-svc-4.0v1
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/zSQTMihNtbVzc3F1AJvQA.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/k-5_eikNyGihSrx1usqFE.wav"></audio>
-
-## Morgan
-低沉女声，沉稳
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/gFz839dQSC3_x1WVOebWK.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/8wzzfEgOz0ygMfSqwzj9c.wav"></audio>
-
-## Reo Mai 双人模型 Reo
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/dp3LCc5xN0u3G2_dL2-Z5.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/LIzuB6EGbBeBl0SScs0ht.wav"></audio>
-
-## Reo Mai 双人模型 Mai
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/Q2dz6OFNmYhBIWf3Y-y4l.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/ib74TOrQz0WdjM5VEOLXg.wav"></audio>
-
-## ru-saya
-https://huggingface.co/fnx/so-vits-svc-4.0-ru-saya  
-高音女声，低音失真严重，偏童声
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/6JcdhAnPPHwkdHl3aaL6z.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/3MWFTT22DxYU8WSaNm_6J.wav"></audio>
-
-## Saber
-沉稳女声
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/6imcmEBS40QUOGnIvPlpv.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/k0Zg6Fj_VQklbcFppzwob.wav"></audio>
-
-## TreeHugger
-女声，咬字不太清楚
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/9v_gv99ZZDZuf_nGnPgGS.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/dI6zYem15oDRwU5LPH69r.wav"></audio>
+---
+license: openrail
+---
+> github无法显示音频，可以至抱脸查看 https://huggingface.co/zhaijifu67/so-vits-4.0-collect/blob/main/README.md  
+> vits4.0模型，收集自网络
 
 
+|等待测试||
+|---|---|
+|[Lunmine](https://huggingface.co/cheddarkrf/so-vits-svc-genshinn)|淳厚女声，荧(《原神》)|
+|[Kanata Konoe](https://huggingface.co/Habuki/kanata-konoe-so-vits-svc-model)|压低音女声，近江彼方(《LoveLive!虹咲学园学园偶像同好会》，CV 鬼头明里)|
 
 
-
-
-# 男声 Male
-
-## AbeShinzo
-标准男声  
-https://huggingface.co/AbeShinzo0708/so_vits_svc4_AbeShinzo
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/cP6vqgziNlXCofMOYQvNR.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/0M2F2aGXFcQHaXnDlIONw.wav"></audio>
-
-## g1_Diego_PL
-淳厚男声
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/tZamM3znp0H4WVjjEUO4T.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/hk-GKTBhwsHZOgBQNfktS.wav"></audio>
-
-## Glados
-带一点电子感
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/glrXczho4SZ-GUgDN3UC-.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/PC3jJN4gQnzdbYTHwgG9Y.wav"></audio>
-
-## NamelessHero
-淳厚男声
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/XHm1uI3PIRYdc_tL5Z8IS.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/0LHEsLpJEOnYE8HL0qQ9T.wav"></audio>
-
-## Niel
-说话有老外口音，质量低
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/xphz7c7QY8w9GtqZBkehj.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/8X1h6jc5cUT-Z1xFsvAXI.wav"></audio>
-
-## Saul Goodman
-说话有老外口音
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/k9IHGy1PwKybHDx2gE3JD.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/JmGE71aiFGBxzK4T4l-ZP.wav"></audio>
-
-## Shigure
-有点娘娘腔，或者算是低音女声  
-https://huggingface.co/yasyune/Shigure_Tokina_so-vits-svc-4.0v1
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/93VHNwvmscA96RktBx2vU.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/CjsOrIVjwdDj9VRYld0ou.wav"></audio>
-
-## SugaYoshihide
-年轻感偏高男声  
-https://huggingface.co/AbeShinzo0708/so_vits_svc4_SugaYoshihide
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/G9hLuxkSflZAADlc97RSM.wav"></audio>
-<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/c2z3b_IWX9ZdH1inHus45.wav"></audio>
+|名称|对照组，分别测试唱歌和说话两种模式|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/AUuGcpoj-96t9ykgxAfhR.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/wgUDpfi9V0kWJ2vLGzi1y.wav"></audio>|
+|:---:|:---|:---:|:---:|
+|**女性 Female**|
+|[aisa](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|高音女声，唱歌很空灵，彩濑逢樱(《创作少女的恋爱公式》女主角，CV 明羽杏子)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/vPFiZGhM1LM1acT1ZcyLo.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/KRzU1Kc6DavzZuvoW-TR3.wav"></audio>|
+|[Asahi](https://huggingface.co/IvanSnow02/so-vits-4.0-Asahi)|女声，甜美，小仓朝日(《近月少女的礼仪》的男主人公)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/uL5vZ-UdJjWJJdEv3mqy2.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/2M0vistsoIOyHEPVOfEOm.wav"></audio>|
+|[Anya](https://huggingface.co/megaaziib/hololivemix-so-vits-svc-4.0)|偏幼女声，Anya Melfissa(hololive旗下的YouTuber)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/Xg3ePL1cN1JGeDSeDa3vD.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/xNlV2K4niwrV6PsdZ_n8r.wav"></audio>|
+|[Caster](https://huggingface.co/xgdhdh/so-vits-svc-4.0)|女声，甜美，音质好|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/BR-su3wCIInAJ-RVnZYiE.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/l3cK8SfeqXGZ4hR0MlS5o.wav"></audio>|
+|[Ceobe](https://www.bilibili.com/read/cv23006297)|高音女声，刻俄柏(明日方舟)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/fzfFEz7L5feqGNjrb5qrh.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/eISGSxFSap_FI8IRDbAtI.wav"></audio>|
+|[ChenZhuoXuan](https://huggingface.co/melicat/so-vits-svc-4.0)|弱气女声，甜美，陈卓璇(中国歌手)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/18zpL0I7hwP9phYxTz5H2.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/4Z8ZKA2CcK_rrhO2vdpcP.wav"></audio>|
+|[chiwa](https://huggingface.co/kuuhaku1314/so-vits-svc-4.0)|可爱女声，杏藤千和(《樱花、萌放。》，CV 猫村由纪)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/ukp1eoHz0HqNuMgPT4CdF.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/GmAwXGPLdX2QVjQNwnBU-.wav"></audio>|
+|[dagitavi](https://huggingface.co/OlivineEllva/so-vits-svc-4.0-models)|圆润女声|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/3FI7ki_BPmBlo8snEuO_I.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/vg_HgG3K8HbQ_0_y3g9df.wav"></audio>|
+|[danxiao](https://huggingface.co/lqlklu/so-vits-svc-4.0-danxiao)|温和女声|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/tSInuqT9il43f2ngmRg8D.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/YIC__AyyRNixBlHDJc1s1.wav"></audio>|
+|Derpy|童声女声|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/XqtDYFcri7G6k8LaTZ73v.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/o9DSuIuGEjXzShLrM0a-b.wav"></audio>|
+|[emu](https://huggingface.co/MashiroSA/sovits-emu-model)|超高音童声女声，凤笑梦(《世界计划 彩色舞台 feat. 初音未来》，CV 木野日菜)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/gvnNosGsJzNRDFVzPuXmR.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/akxMPdz2-dVq6BGYYRoiW.wav"></audio>|
+|[haru](https://huggingface.co/kuuhaku1314/so-vits-svc-4.0)|高音女声，柊春(《樱花、萌放。》，CV 南るお)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/2N1-q7ruumRT8FBf0te6Z.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/w4hJLabsZwSaqQ92VD9X0.wav"></audio>|
+|[hibiki](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|超高女声，小日向响(《闪耀★青春追逐记！》，CV 水桃もな)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/KTiNII9n8M1YcLV36ZLx4.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/zv3fY_bMcXzoLLwcTFO24.wav"></audio>|
+|[ick](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|甜美女声，柔和|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/4x9pdmVNmQRL33lphVkVD.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/sR_YHgk__-RWUQiQlbNij.wav"></audio>|
+|[kanae](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|文静女声，微哑，大鸟香奈枝(《装甲恶鬼村正》，CV 吉川华生)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/LsgJ1yGl0M2WUq6TlpwCE.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/P3NoCcXzmCHDApD4nGyZk.wav"></audio>|
+|[Kaela](https://huggingface.co/megaaziib/hololivemix-so-vits-svc-4.0)|温和女声，Kaela Kovalskia(hololive旗下的YouTuber)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/xcrMShOfkP10tPZl-XlsP.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/7boK0xlJZlQz2z7nLj_qL.wav"></audio>|
+|[kiriha](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|甜美女声，月见坂桐叶(《创作少女的恋爱公式》，CV 夏峰いろは)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/qy2GpmRrQ4tbyzd5ITTzV.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/hhpPixBQTgGJFJlRdg5lG.wav"></audio>|
+|[Kobo](https://huggingface.co/megaaziib/hololivemix-so-vits-svc-4.0)|童音女声，乖巧，Kobo Kanaeru(hololive旗下的YouTuber)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/IowO6zNOM2ePKDHj1olKf.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/wiPKQ6c4OMzCTper9fbdh.wav"></audio>|
+|[Korone](https://huggingface.co/megaaziib/hololivemix-so-vits-svc-4.0)|童音女声，戌神沁音(hololive旗下的YouTuber)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/FQNHSysEQx6Jd8WlHAeti.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/1yconPTWjC2cULQyb2CT_.wav"></audio>|
+|[Kurage](https://huggingface.co/yasyune/Kurage_Kikoto__Mahiro_Kikoto_so-vits-svc-4.0v1)|女声，黄琴海月さん|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/qmo4fHEDafYl7pQyIODwT.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/aVPGDu69NrCKa96Jf-Y2a.wav"></audio>|
+|[kuro](https://huggingface.co/kuuhaku1314/so-vits-svc-4.0)|弱气女声，小黑(《樱花、萌放。》，CV 夏和小)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/XRscGKLqT3cLPvGZRTiF8.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/_EiDBJdGpLX3DyYKVxTyk.wav"></audio>|
+|[Lain](https://huggingface.co/SuCicada/Lain-so-vits-svc-4.0)|甜美女声，岩仓玲音(《玲音的系列实验》主角，CV 清水香里)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/Ezc1vxHAC_febo2j0F8rp.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/erAcd8Q2hd90zlaQPti0Z.wav"></audio>|
+|[LyraBonHearts](https://huggingface.co/OlivineEllva/so-vits-svc-4.0-models)|童音女声，可爱，心弦(《小马宝莉》，CV Ashleigh Ball)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/dGVSktqKMJyVhzHC5a_JE.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/5rv-Onxmw-hXEKJqcZWo3.wav"></audio>|
+|[Mahiro](https://huggingface.co/yasyune/Kurage_Kikoto__Mahiro_Kikoto_so-vits-svc-4.0v1)|高音低音都合适，音域广，黄琴まひろさん|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/zSQTMihNtbVzc3F1AJvQA.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/k-5_eikNyGihSrx1usqFE.wav"></audio>|
+|Mai|偏幼女声，甜美|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/Q2dz6OFNmYhBIWf3Y-y4l.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/ib74TOrQz0WdjM5VEOLXg.wav"></audio>|
+|[MonaGenshin](https://huggingface.co/arlineka/so-vits-4.0-MonaGenshin)|偏高女声，甜美，轻微电流，莫娜(《原神》，CV 小原好美)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/U12GiBBkEYlD79ZayrZ5p.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/DDqdmFNCLe-GCKfEIGIe7.wav"></audio>|
+|[Monna](https://huggingface.co/megaaziib/hololivemix-so-vits-svc-4.0)|温和女声，Moona Hoshinova(hololive旗下的YouTuber)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/QPUthmGTiDE0ZjwnoOJFN.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/-qaUOlhL142-yKDqp9Wlr.wav"></audio>|
+|[Morgan](https://huggingface.co/xgdhdh/so-vits-svc-4.0)|低沉女声，沉稳|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/gFz839dQSC3_x1WVOebWK.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/8wzzfEgOz0ygMfSqwzj9c.wav"></audio>|
+|[nozomi](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|超高音女声，偏幼，墨染希(《星光咖啡馆与死神之蝶》，CV 上原葵)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/-89q0418LJvgRsvGUSpd-.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/TkV16RNsWifkXPbKTTk1r.wav"></audio>|
+|[Pekora](https://huggingface.co/megaaziib/hololivemix-so-vits-svc-4.0)|尖锐女声，兔田佩克拉(hololive旗下的YouTuber)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/s0NFyCNYVfkB2kLY0fNTV.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/F8Lu06mimfSlrP4Ynlhr7.wav"></audio>|
+|[Reine](https://huggingface.co/megaaziib/hololivemix-so-vits-svc-4.0)|偏低女声，干涩，Pavolia Reine(hololive旗下的YouTuber)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/zLTseReUyx6I5uYQEkHa0.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/isHCF8__DLX-8cnvTwupA.wav"></audio>|
+|Reo|偏幼女声，咬字不太清楚|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/dp3LCc5xN0u3G2_dL2-Z5.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/LIzuB6EGbBeBl0SScs0ht.wav"></audio>|
+|[riri](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|高音女声，软糯，鹿岛理理(《闪耀★青春追逐记！》，CV 泽田夏)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/UbV3fUFqPqpoGfjoKZwDD.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/UeF5pxDQNsBS20G-9eiRQ.wav"></audio>|
+|[ru-saya](https://huggingface.co/fnx/so-vits-svc-4.0-ru-saya)|高音女声，低音失真严重，偏童声|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/6JcdhAnPPHwkdHl3aaL6z.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/3MWFTT22DxYU8WSaNm_6J.wav"></audio>|
+|[Saber](https://huggingface.co/xgdhdh/so-vits-svc-4.0)|沉稳女声|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/6imcmEBS40QUOGnIvPlpv.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/k0Zg6Fj_VQklbcFppzwob.wav"></audio>|
+|[saki](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|标准女声|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/fl2Zw8ftu3QV1K65tAwr2.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/2Ja4r39ZrvMaWolJCdf3Z.wav"></audio>|
+|[Shigure](https://huggingface.co/yasyune/Shigure_Tokina_so-vits-svc-4.0v1)|低音女声，時雨(《舰队Collection》，CV 谷边由美)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/93VHNwvmscA96RktBx2vU.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/CjsOrIVjwdDj9VRYld0ou.wav"></audio>|
+|[sora](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|尖锐女声，一ノ瀬空|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/h7tSNzQA7Fx_abVuGb3mh.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/yJBL8XCrulmgMFgPhOs0U.wav"></audio>|
+|TreeHugger|女声，咬字不太清楚|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/9v_gv99ZZDZuf_nGnPgGS.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/dI6zYem15oDRwU5LPH69r.wav"></audio>|
+|[tubaki](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|软糯女声，甜美，朱雀院椿(《羁绊辉耀的恋之伊吕波》，CV 卯衣)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/TE9905CBx_xoEUD-jHK4b.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/6ev44-zAivQEMHvimdqDu.wav"></audio>|
+|[wraith](https://www.bilibili.com/read/cv23139551)|低音女声，沉稳，沧桑|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/dZ_SzSAK1Z1jpyudRdkBo.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/P44zqu-6XFwkVS9T3ab-7.wav"></audio>|
+|[Zeta](https://huggingface.co/megaaziib/hololivemix-so-vits-svc-4.0)|偏幼女声，可爱，Vestia Zeta(hololive旗下的YouTuber)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/mvFrBhxR2U-B0CbvYESA7.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/jDSjIfl1PvhVaf7aTjDdp.wav"></audio>|
+|**男性 Male**|
+|[AbeShinzo](https://huggingface.co/AbeShinzo0708/so_vits_svc4_AbeShinzo)|标准男声，安倍晋三(日本政治家)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/cP6vqgziNlXCofMOYQvNR.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/0M2F2aGXFcQHaXnDlIONw.wav"></audio>|
+|g1_Diego_PL|淳厚男声|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/tZamM3znp0H4WVjjEUO4T.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/hk-GKTBhwsHZOgBQNfktS.wav"></audio>|
+|Glados|标准男声，带一点电子感，GLaDOS(《传送门2》)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/glrXczho4SZ-GUgDN3UC-.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/PC3jJN4gQnzdbYTHwgG9Y.wav"></audio>|
+|[jokowi](https://huggingface.co/uki-kun/jokowi-so-vits-svc-model)|标准男声Jokowi(印尼政治家)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/6xnriEZQqYowGsHPfQknH.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/yywTAcFFnzHLKXrHkkl-n.wav"></audio>|
+|[kageaki](https://huggingface.co/TachibanaKimika/so-vits-svc-4.0-models)|低沉男声，浑厚，唱歌比较灾难，凑斗景明(《装甲恶鬼村正》，CV 石川ゆうすけ)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/81L5H0iKyw5TxOMcQjGAM.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/cW1gRQQNVvqHRiAIFgYmD.wav"></audio>|
+|NamelessHero|淳厚男声|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/XHm1uI3PIRYdc_tL5Z8IS.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/0LHEsLpJEOnYE8HL0qQ9T.wav"></audio>|
+|[Niel](https://huggingface.co/mikefizzy/so-vits-svc)|男声，说话有老外口音，质量低，Niel(韩国歌手)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/xphz7c7QY8w9GtqZBkehj.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/8X1h6jc5cUT-Z1xFsvAXI.wav"></audio>|
+|[postal dude](https://huggingface.co/Vertexgamer/so-vits-svc-4.0_model_POSTAL_DUDE)|低音男声，浑厚，杜德(《喋血街头2/夺命邮差2》)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/bwC0k_VoFQH3PPcnTR79y.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/xtHEaVH07wRkGDjkeJVNc.wav"></audio>|
+|Saul Goodman|说话有老外口音|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/k9IHGy1PwKybHDx2gE3JD.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/JmGE71aiFGBxzK4T4l-ZP.wav"></audio>|
+|[SugaYoshihide](https://huggingface.co/AbeShinzo0708/so_vits_svc4_SugaYoshihide)|年轻感偏高男声，音质较差，菅義偉/菅义伟(日本政治家)|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/G9hLuxkSflZAADlc97RSM.wav"></audio>|<audio controls src="https://s3.amazonaws.com/moonup/production/uploads/6448dd81638bfa3ce137df4a/c2z3b_IWX9ZdH1inHus45.wav"></audio>|
